@@ -1,3 +1,5 @@
+Instructions for running the final project:
+
 Running defualt Simulation:
 	Open and run SolarSystem.py to load the CelestialBodies class and the Simulation class. When the Experiments.py file in run the simualtion should begin.
 	
